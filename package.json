@@ -1,0 +1,8 @@
+{
+  "name": "ci-cd-case-1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e "console.log('Application build completed successfully')""
+  }
+}
